@@ -1,0 +1,1 @@
+facebook.wsgi.application

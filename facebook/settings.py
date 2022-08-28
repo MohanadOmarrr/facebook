@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-88srhlc(24x2%2o&y(*)%8om5cc%zae*f^1u@3(mu%k1mer@_p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['facebook-login-deploy.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
