@@ -1,0 +1,72 @@
+body{
+    background-color: #F8F8F8;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.img {
+    width: 240px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 396px;
+}
+
+.card-body{
+    padding: 24px 0 0 0
+}
+
+.card .card-body h5 {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.from-group {
+    margin-top: 0;
+}
+
+
+body > div > div > div > form > div:nth-child(2) {
+    margin-bottom: 0;
+}
+
+.form-group .form-control {
+    border-radius: 6px;
+    font-size: 17px;
+    width: 360px;
+    padding: 14px 16px;
+    line-height: 0;
+    border: 1px solid #dddfe2;
+    font-weight: 490
+}
+
+.btn-primary {
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 360px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.btn-success {
+    margin-top: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 180px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
